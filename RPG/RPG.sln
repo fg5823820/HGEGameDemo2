@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RPG", "RPG\RPG.vcproj", "{E9FC268A-669E-4809-991F-CFFC92FCA72A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FC268A-669E-4809-991F-CFFC92FCA72A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9FC268A-669E-4809-991F-CFFC92FCA72A}.Debug|Win32.Build.0 = Debug|Win32
+		{E9FC268A-669E-4809-991F-CFFC92FCA72A}.Release|Win32.ActiveCfg = Release|Win32
+		{E9FC268A-669E-4809-991F-CFFC92FCA72A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
